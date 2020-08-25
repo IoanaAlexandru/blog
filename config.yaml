@@ -4,6 +4,7 @@ title: Ioana Alexandru
 theme: hugo-refresh
 # theme: ../..
 
+googleAnalytics: UA-176282416-1
 markup:
   goldmark:
     renderer:
