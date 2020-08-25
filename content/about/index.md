@@ -9,20 +9,20 @@ showInMenu: true
 
 # Bio
 
-I work as a software engineer in Google and I am currently pursuing a Master's degree in Graphics, Multimedia and Virtual Reality at University POLITEHNICA of Bucharest. I enjoy mobile development and I am trying to learn more about UX/UI design.
+I work at Google as a software engineer and I am currently pursuing a Master's degree in Graphics, Multimedia and Virtual Reality at <a target="_blank" href="https://upb.ro/en/">University POLITEHNICA of Bucharest</a>. I enjoy mobile development and I am trying to learn more about UI/UX design.
 
-My mission is to help grow the next generation of software developers. I practice teaching and mentoring through my position as a Teaching Assistant in my university, as well as through managing a team of students who contribute on [a mobile application](https://github.com/acs-upb-mobile/acs-upb-mobile) for our student community. Furthermore, in my role as a Microsoft Learn Student Ambassador, I mentor other student ambassadors and organise various events featuring Microsoft technologies.
+My mission is to help grow the next generation of software developers. I practice teaching and mentoring through my position as a Teaching Assistant in my university, as well as through managing a team of students who contribute on [a mobile application](https://github.com/acs-upb-mobile/acs-upb-mobile) for our student community. Furthermore, in my role as a Microsoft Learn Student Ambassador, I mentor other student ambassadors, organise and participate in various events featuring Microsoft technologies.
 
 # Education
 
 <table>
   <tr>
-    <td style="vertical-align: middle; padding-right: 4px; width: 58px">
+    <td style="vertical-align: middle; padding-right: 4px; width: 58px; border-bottom-width: 3px">
       <img alt="University POLITEHNICA of Bucharest" title="University POLITEHNICA of Bucharest" class="logo" src="logos/upb.png">
     </td>
     <td style="border-bottom-width: 3px">
-      <h4>University POLITEHNICA of Bucharest<h4><br>
-      <h6>Master's degree in Graphics, Multimedia and Virtual Reality<h6>
+      <h4>Master's degree in Graphics, Multimedia and Virtual Reality</h4><br>
+      <h6>University POLITEHNICA of Bucharest</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic; border-bottom-width: 3px">
       2020 - present
@@ -33,8 +33,8 @@ My mission is to help grow the next generation of software developers. I practic
       <img alt="University POLITEHNICA of Bucharest" title="University POLITEHNICA of Bucharest" class="logo" src="logos/upb.png">
     </td>
     <td>
-      <h4>University POLITEHNICA of Bucharest<h4><br>
-      <h6>Bachelor's degree in Computer Science<h6>
+      <h4>Bachelor's degree in Computer Science</h4><br>
+      <h6>University POLITEHNICA of Bucharest</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
       2016 - 2020
@@ -50,8 +50,8 @@ My mission is to help grow the next generation of software developers. I practic
       <img alt="Google" title="Google" class="logo" src="logos/google.svg">
     </td>
     <td>
-      <h4>Google<h4><br>
-      <h6>Software Engineer<h6>
+      <h4>Software Engineer</h4><br>
+      <h6>Google</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
       2020 - present
@@ -59,41 +59,7 @@ My mission is to help grow the next generation of software developers. I practic
   </tr>
   <tr>
     <td colspan="3" style="border-bottom-width: 3px;">
-      Will start working in November 2020 as part of the storage infrastructure team in Zürich, Switzerland.
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: middle; padding-right: 4px; width: 58px">
-      <img alt="Google" title="Google" class="logo" src="logos/google.svg">
-    </td>
-    <td>
-      <h4>Google<h4><br>
-      <h6>Software Engineering Intern<h6>
-    </td>
-    <td style="text-align: right; vertical-align: middle; font-style: italic">
-      summer 2019
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" style="border-bottom-width: 3px;">
-      Worked as an iOS back-end developer in the mobile data infrastructure team in Zürich, Switzerland.
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: middle; padding-right: 4px; width: 58px">
-      <img alt="Google" title="Google" class="logo" src="logos/google.svg">
-    </td>
-    <td>
-      <h4>Google<h4><br>
-      <h6>Software Engineering Intern<h6>
-    </td>
-    <td style="text-align: right; vertical-align: middle; font-style: italic">
-      summer 2018
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" style="border-bottom-width: 3px;">
-      Developed a new feature as part of the Android Studio team in London, UK.
+      Will start working in November 2020 as part of the storage infrastructure team in 🇨🇭 Zürich, Switzerland.
     </td>
   </tr>
   <tr>
@@ -101,16 +67,50 @@ My mission is to help grow the next generation of software developers. I practic
       <img alt="University POLITEHNICA of Bucharest" title="University POLITEHNICA of Bucharest" class="logo" src="logos/upb.png">
     </td>
     <td>
-      <h4>University POLITEHNICA of Bucharest<h4><br>
-      <h6>Teaching Assistant<h6>
+      <h4>Teaching Assistant</h4><br>
+      <h6>University POLITEHNICA of Bucharest</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
       2017 - present
     </td>
   </tr>
   <tr>
+    <td colspan="3" style="border-bottom-width: 3px;">
+      Teaching introductive classes on programming, data structures (in C) and object-oriented programming (in Java) at the best engineering university in 🇷🇴 Bucharest, Romania.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 4px; width: 58px">
+      <img alt="Google" title="Google" class="logo" src="logos/google.svg">
+    </td>
+    <td>
+      <h4>Software Engineering Intern</h4><br>
+      <h6>Google</h6>
+    </td>
+    <td style="text-align: right; vertical-align: middle; font-style: italic">
+      summer 2019
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" style="border-bottom-width: 3px;">
+      Worked as an iOS back-end (Objective-C) developer in the mobile data infrastructure team in 🇨🇭 Zürich, Switzerland.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 4px; width: 58px">
+      <img alt="Google" title="Google" class="logo" src="logos/google.svg">
+    </td>
+    <td>
+      <h4>Software Engineering Intern</h4><br>
+      <h6>Google</h6>
+    </td>
+    <td style="text-align: right; vertical-align: middle; font-style: italic">
+      summer 2018
+    </td>
+  </tr>
+  <tr>
     <td colspan="3" style="border-bottom-width: 0px;">
-      Teaching introductive classes on programming, data structures (in C) and object-oriented programming (in Java).
+      Gained experience with Kotlin and Java by developing a new IDE feature as part of the Android Studio team in 🇬🇧 London, UK.
     </td>
   </tr>
 </table>
@@ -120,11 +120,28 @@ My mission is to help grow the next generation of software developers. I practic
 <table>
   <tr>
     <td style="vertical-align: middle; padding-right: 4px; width: 58px">
-      <img alt="Microsoft Learn Student Ambassador" title="Microsoft Learn Student Ambassador" class="logo" src="logos/mlsa.png">
+      <img alt="Microsoft Learn Student Ambassador" title="Microsoft Learn Student Ambassador" class="logo" src="logos/betamlsa.png">
     </td>
     <td>
-      <h4>Microsoft<h4><br>
-      <h6>Microsoft Learn Student Ambassador (Beta)<h6>
+      <h4>Academy Lead</h4><br>
+      <h6 style="display: inline">Microsoft Learn Student Ambassadors </h6>in partnership with<h6 style="display: inline"> University POLITEHNICA of Bucharest</h6>
+    </td>
+    <td style="text-align: right; vertical-align: middle; font-style: italic">
+      2019 - present
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" style="border-bottom-width: 3px;">
+      I am responsible for the <a target="_blank" href="https://academy.microsoft.pub.ro/">Microsoft Academy</a> at our university, including managing the team of trainers for our three courses (Introduction to .NET, Advanced .NET and SQL Server) as well as PR tasks. I was a trainer myself for the SQL Server course, from March to December 2019.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 4px; width: 58px">
+      <img alt="Microsoft Learn Student Ambassador" title="Microsoft Learn Student Ambassador" class="logo" src="logos/alphamlsa.png">
+    </td>
+    <td>
+      <h4>Student Ambassador</h4><br>
+      <h6>Microsoft Learn Student Ambassadors</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
       2018 - present
@@ -132,7 +149,7 @@ My mission is to help grow the next generation of software developers. I practic
   </tr>
   <tr>
     <td colspan="3" style="border-bottom-width: 3px;">
-      Participating in and organising workshops and events featuring various Microsoft technologies. For more information about our team's activity, check <a target="_blank" href="https://www.facebook.com/microsoft.pub.ro/">our Facebook page</a>.
+      As a student ambassador, I regularly participate in and organise  workshops and events featuring various Microsoft technologies. For more information about our team's activity, check <a target="_blank" href="https://www.facebook.com/microsoft.pub.ro/">our Facebook page</a>.
     </td>
   </tr>
   <tr>
@@ -140,8 +157,8 @@ My mission is to help grow the next generation of software developers. I practic
       <img alt="Codette" title="Codette" class="logo" src="logos/codette.png">
     </td>
     <td>
-      <h4>Codette<h4><br>
-      <h6>Trainer<h6>
+      <h4>Trainer</h4><br>
+      <h6>Codette</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
       2017 - 2018
