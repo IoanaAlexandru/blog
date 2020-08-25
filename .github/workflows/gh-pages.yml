@@ -21,3 +21,4 @@ jobs:
           branch: master
           repo: IoanaAlexandru/ioanaalexandru.github.io
           args: -D --gc --minify --cleanDestinationDir
+          cname: ioana-alexandru.com
