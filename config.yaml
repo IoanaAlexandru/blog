@@ -1,8 +1,13 @@
 baseURL: https://ioanaalexandru.github.io
 languageCode: en-us
-title: Personal website and blog
+title: Ioana Alexandru
 theme: hugo-refresh
 # theme: ../..
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 #########################################
 ######## Uncomment this option ##########
@@ -108,7 +113,7 @@ params:
     # option to specify the title in the homepage
     title: Ioana Alexandru
     # option to specify the subtitle in the homepage
-    subtitle: Personal website and blog
+    subtitle: Software Engineer. Mobile Developer. Student. Rookie UI Designer. Photography Aficionado.
     # option to specify image in the homepage
     image: "/images/avataaars2.svg" # worker.svg
     # option to specify the width of the image in the homepage
