@@ -21,8 +21,8 @@ My mission is to help grow the next generation of software developers. I practic
       <img alt="University POLITEHNICA of Bucharest" title="University POLITEHNICA of Bucharest" class="logo" src="logos/upb.png">
     </td>
     <td style="border-bottom-width: 3px">
-      <h4>Master's degree in Graphics, Multimedia and Virtual Reality</h4><br>
-      <h6>University POLITEHNICA of Bucharest</h6>
+      <h4 style="display: inline">Master's degree in Graphics, Multimedia and Virtual Reality</h4><br>
+      <h6 style="display: inline">University POLITEHNICA of Bucharest</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic; border-bottom-width: 3px">
       2020 - present
@@ -33,8 +33,8 @@ My mission is to help grow the next generation of software developers. I practic
       <img alt="University POLITEHNICA of Bucharest" title="University POLITEHNICA of Bucharest" class="logo" src="logos/upb.png">
     </td>
     <td>
-      <h4>Bachelor's degree in Computer Science</h4><br>
-      <h6>University POLITEHNICA of Bucharest</h6>
+      <h4 style="display: inline">Bachelor's degree in Computer Science</h4><br>
+      <h6 style="display: inline">University POLITEHNICA of Bucharest</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
       2016 - 2020
@@ -50,8 +50,8 @@ My mission is to help grow the next generation of software developers. I practic
       <img alt="Google" title="Google" class="logo" src="logos/google.svg">
     </td>
     <td>
-      <h4>Software Engineer</h4><br>
-      <h6>Google</h6>
+      <h4 style="display: inline">Software Engineer</h4><br>
+      <h6 style="display: inline">Google</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
       2020 - present
@@ -67,8 +67,8 @@ My mission is to help grow the next generation of software developers. I practic
       <img alt="University POLITEHNICA of Bucharest" title="University POLITEHNICA of Bucharest" class="logo" src="logos/upb.png">
     </td>
     <td>
-      <h4>Teaching Assistant</h4><br>
-      <h6>University POLITEHNICA of Bucharest</h6>
+      <h4 style="display: inline">Teaching Assistant</h4><br>
+      <h6 style="display: inline">University POLITEHNICA of Bucharest</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
       2017 - present
@@ -84,8 +84,8 @@ My mission is to help grow the next generation of software developers. I practic
       <img alt="Google" title="Google" class="logo" src="logos/google.svg">
     </td>
     <td>
-      <h4>Software Engineering Intern</h4><br>
-      <h6>Google</h6>
+      <h4 style="display: inline">Software Engineering Intern</h4><br>
+      <h6 style="display: inline">Google</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
       summer 2019
@@ -101,8 +101,8 @@ My mission is to help grow the next generation of software developers. I practic
       <img alt="Google" title="Google" class="logo" src="logos/google.svg">
     </td>
     <td>
-      <h4>Software Engineering Intern</h4><br>
-      <h6>Google</h6>
+      <h4 style="display: inline">Software Engineering Intern</h4><br>
+      <h6 style="display: inline">Google</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
       summer 2018
@@ -123,7 +123,7 @@ My mission is to help grow the next generation of software developers. I practic
       <img alt="Microsoft Learn Student Ambassador" title="Microsoft Learn Student Ambassador" class="logo" src="logos/betamlsa.png">
     </td>
     <td>
-      <h4>Academy Lead</h4><br>
+      <h4 style="display: inline">Academy Lead</h4><br>
       <h6 style="display: inline">Microsoft Learn Student Ambassadors </h6>in partnership with<h6 style="display: inline"> University POLITEHNICA of Bucharest</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
@@ -140,8 +140,8 @@ My mission is to help grow the next generation of software developers. I practic
       <img alt="Microsoft Learn Student Ambassador" title="Microsoft Learn Student Ambassador" class="logo" src="logos/alphamlsa.png">
     </td>
     <td>
-      <h4>Student Ambassador</h4><br>
-      <h6>Microsoft Learn Student Ambassadors</h6>
+      <h4 style="display: inline">Student Ambassador</h4><br>
+      <h6 style="display: inline">Microsoft Learn Student Ambassadors</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
       2018 - present
@@ -157,8 +157,8 @@ My mission is to help grow the next generation of software developers. I practic
       <img alt="Codette" title="Codette" class="logo" src="logos/codette.png">
     </td>
     <td>
-      <h4>Trainer</h4><br>
-      <h6>Codette</h6>
+      <h4 style="display: inline">Trainer</h4><br>
+      <h6 style="display: inline">Codette</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
       2017 - 2018
