@@ -1,3 +1,4 @@
+<meta name="description" content="Ioana Alexandru. Software Engineer. Mobile Developer. Student. Rookie UI Designer. Photography Aficionado.">
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
@@ -7,7 +8,7 @@
     <meta property="og:url"  content="{{- .Permalink -}}" />
     <meta property="og:type" content="article" />
 
-    {{- $title := replace .Title '"' ' ' -}} 
+    {{- $title := replace .Title '"' ' ' -}}
     <meta property="og:title" content="{{- $title -}}" />
     {{- if .Params.summary -}}
         {{- $summary := replace .Params.summary '"' ' ' -}}
@@ -19,7 +20,7 @@
     {{- $image := "" -}}
     {{- $imgWidthDefault := 375 -}}
     {{- $imgHeightDefault := 250 -}}
-    {{- if .Params.summaryImage -}} 
+    {{- if .Params.summaryImage -}}
         {{- $image = .Page.Resources.GetMatch .Params.summaryImage -}}
         {{- .Scratch.Set "image" ($image.Resize "600x") -}}
         {{- $image = .Scratch.Get "image" -}}

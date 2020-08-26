@@ -7,7 +7,7 @@ showInMenu: true
 # no need for the "summary" parameter as it is not displayed in any previews
 ---
 
-<img style="padding: 20px" width="380" align="left" src="portrait.jpg">
+<img style="padding: 20px" width="380" align="left" src="portrait.jpg" alt="Ioana Alexandru">
 
 # Bio
 
