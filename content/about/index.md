@@ -7,11 +7,15 @@ showInMenu: true
 # no need for the "summary" parameter as it is not displayed in any previews
 ---
 
+<img style="padding: 20px" width="380" align="left" src="portrait.jpg">
+
 # Bio
 
 I work at Google as a software engineer and I am currently pursuing a Master's degree in Graphics, Multimedia and Virtual Reality at <a target="_blank" href="https://upb.ro/en/">University POLITEHNICA of Bucharest</a>. I enjoy mobile development and I am trying to learn more about UI/UX design.
 
-My mission is to help grow the next generation of software developers. I practice teaching and mentoring through my position as a Teaching Assistant in my university, as well as through managing a team of students who contribute on [a mobile application](https://github.com/acs-upb-mobile/acs-upb-mobile) for our student community. Furthermore, in my role as a Microsoft Learn Student Ambassador, I mentor other student ambassadors, organise and participate in various events featuring Microsoft technologies.
+My mission is to help grow the next generation of software developers. I practice teaching and mentoring through my position as a Teaching Assistant in my university, as well as through managing a team of students who contribute on <a target="_blank" href="https://github.com/acs-upb-mobile/acs-upb-mobile">a mobile application</a> I built for our student community. Furthermore, in my role as a Microsoft Learn Student Ambassador, I mentor other student ambassadors, organise and participate in various events featuring Microsoft technologies.
+
+<hr clear="left">
 
 # Education
 
