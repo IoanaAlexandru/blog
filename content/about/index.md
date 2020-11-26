@@ -63,7 +63,7 @@ My mission is to help grow the next generation of software developers. I practic
   </tr>
   <tr>
     <td colspan="3" style="border-bottom-width: 3px;">
-      Will start working in November 2020 as part of the storage infrastructure team in 🇨🇭 Zürich, Switzerland.
+      Currently working as part of the Google Search infrastructure team in 🇨🇭 Zürich, Switzerland.
     </td>
   </tr>
   <tr>
@@ -124,36 +124,53 @@ My mission is to help grow the next generation of software developers. I practic
 <table>
   <tr>
     <td style="vertical-align: middle; padding-right: 4px; width: 58px">
-      <img alt="Microsoft Learn Student Ambassador" title="Microsoft Learn Student Ambassador" class="logo" src="logos/betamlsa.png">
+      <img alt="Gold Microsoft Learn Student Ambassador" title="Gold Microsoft Learn Student Ambassador" class="logo" src="logos/goldmlsa.png">
+    </td>
+    <td>
+      <h4 style="display: inline">Gold Student Ambassador</h4><br>
+      <h6 style="display: inline">Microsoft Learn Student Ambassadors</h6>
+    </td>
+    <td style="text-align: right; vertical-align: middle; font-style: italic">
+      2020
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" style="border-bottom-width: 3px;">
+      Achieved <a href="https://studentambassadors.microsoft.com/en-US/milestones">the last milestone</a> of the Microsoft Learn Student Ambassadors programme thanks to continuous community engagement, even during the global pandemic.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 4px; width: 58px">
+      <img alt="Beta Microsoft Learn Student Ambassador" title="Beta Microsoft Learn Student Ambassador" class="logo" src="logos/betamlsa.png">
     </td>
     <td>
       <h4 style="display: inline">Academy Lead</h4><br>
       <h6 style="display: inline">Microsoft Learn Student Ambassadors </h6>in partnership with<h6 style="display: inline"> University POLITEHNICA of Bucharest</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
-      2019 - present
+      2019 - 2020
     </td>
   </tr>
   <tr>
     <td colspan="3" style="border-bottom-width: 3px;">
-      I am responsible for the <a target="_blank" href="https://academy.microsoft.pub.ro/">Microsoft Academy</a> at our university, including managing the team of trainers for our three courses (Introduction to .NET, Advanced .NET and SQL Server) as well as PR tasks. I was a trainer myself for the SQL Server course, from March to December 2019.
+      I was responsible for the <a target="_blank" href="https://academy.microsoft.pub.ro/">Microsoft Academy</a> at our university, including managing the team of trainers for our three courses (Introduction to .NET, Advanced .NET and SQL Server) as well as PR tasks. I was a trainer myself for the SQL Server course, from March to December 2019.
     </td>
   </tr>
   <tr>
     <td style="vertical-align: middle; padding-right: 4px; width: 58px">
-      <img alt="Microsoft Learn Student Ambassador" title="Microsoft Learn Student Ambassador" class="logo" src="logos/alphamlsa.png">
+      <img alt="Alpha Microsoft Learn Student Ambassador" title="Alpha Microsoft Learn Student Ambassador" class="logo" src="logos/alphamlsa.png">
     </td>
     <td>
       <h4 style="display: inline">Student Ambassador</h4><br>
       <h6 style="display: inline">Microsoft Learn Student Ambassadors</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
-      2018 - present
+      2018 - 2020
     </td>
   </tr>
   <tr>
     <td colspan="3" style="border-bottom-width: 3px;">
-      As a student ambassador, I regularly participate in and organise  workshops and events featuring various Microsoft technologies. For more information about our team's activity, check <a target="_blank" href="https://www.facebook.com/microsoft.pub.ro/">our Facebook page</a>.
+      As a student ambassador, I regularly participated in and organised  workshops and events featuring various Microsoft technologies. For more information about our team's activity, check <a target="_blank" href="https://www.facebook.com/microsoft.pub.ro/">our Facebook page</a>.
     </td>
   </tr>
   <tr>
