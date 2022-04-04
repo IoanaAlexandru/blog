@@ -14,7 +14,7 @@ showInMenu: true
 
 I work at Google as a software engineer and I am currently pursuing a Master's degree in Graphics, Multimedia and Virtual Reality at <a target="_blank" href="https://upb.ro/en/">University POLITEHNICA of Bucharest</a>. I enjoy mobile development and I am learning more about UI/UX design.
 
-My mission is to help grow the next generation of software developers. I practiced teaching and mentoring through my position as a Teaching Assistant in my university, as well as my role as Microsoft Learn Student ambassador. Currently, I lead a team of students who contribute on <a target="_blank" href="https://github.com/student-hub/acs-upb-mobile">a mobile application</a> I built for our student community. Through work, I love participating in events, conferences and various career panels.
+My mission is to help grow the next generation of software developers. I practiced teaching and mentoring through my position as a Teaching Assistant in my university, as well as my role as Microsoft Learn Student Ambassador. Currently, I lead a team of students who contribute on <a target="_blank" href="https://github.com/student-hub/acs-upb-mobile">a mobile application</a> I built for our student community. Through work, I love participating in events, conferences and various career panels.
   
 <br clear="left">
 
@@ -204,23 +204,27 @@ events (<a target="_blank" href="https://blogs.adobe.com/adobelife/2017/03/23/co
 <img class="logo" alt="Firebase" title="Firebase" src="technologies/firebase.svg">
 <img class="logo" alt="Android Development" title="Android Development" src="technologies/android.svg">
 <img class="logo" alt="iOS Development" title="iOS Development" src="technologies/ios.svg">
-<img class="logo" alt="Microsoft SQL Server" title="Microsoft SQL Server" src="technologies/sqlserver.svg">
+<img class="logo" alt="Angular" title="Angular" src="technologies/angular.svg">
 <img class="logo" alt=".NET Core" title=".NET Core" src="technologies/netcore.svg">
+<img class="logo" alt="Microsoft SQL Server" title="Microsoft SQL Server" src="technologies/sqlserver.svg">
 <img class="logo" alt="Microsoft Azure" title="Microsoft Azure" src="technologies/azure.svg">
 <img class="logo" alt="Jupyter Notebook" title="Jupyter Notebook" src="technologies/jupyternotebook.svg">
+<img class="logo" alt="Unity" title="Unity" src="technologies/unity.svg">
 <img class="logo" alt="OpenGL" title="OpenGL" src="technologies/opengl.svg">
 
 ## Programming languages
 
 <h3 style="color: grey;">Main languages</h3>
 
-<img class="logo" alt="C" title="C" src="languages/c.svg">
-<img class="logo" alt="Java" title="Java" src="languages/java.svg">
-<img class="logo" alt="C++" title="C++" src="languages/cplusplus.svg">
 <img class="logo" alt="Dart" title="Dart" src="languages/dart.svg">
-<img class="logo" alt="C#" title="C#" src="languages/csharp.svg">
-<img class="logo" alt="Kotlin" title="Kotlin" src="languages/kotlin.svg">
+<img class="logo" alt="Go" title="Go" src="languages/go.svg">
+<img class="logo" alt="C" title="C" src="languages/c.svg">
+<img class="logo" alt="C++" title="C++" src="languages/cplusplus.svg">
 <img class="logo" alt="Python" title="Python" src="languages/python.svg">
+<img class="logo" alt="Java" title="Java" src="languages/java.svg">
+<img class="logo" alt="Kotlin" title="Kotlin" src="languages/kotlin.svg">
+<img class="logo" alt="C#" title="C#" src="languages/csharp.svg">
+<img class="logo" alt="TypeScript" title="TypeScript" src="languages/ts.svg">
 <img class="logo" alt="Objective-C" title="Objective-C" src="languages/objectivec.svg">
 
 <h3 style="color: grey;">Personal GitHub repository languages</h3>
