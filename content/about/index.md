@@ -7,15 +7,16 @@ showInMenu: true
 # no need for the "summary" parameter as it is not displayed in any previews
 ---
 
+<div>
 <img style="padding: 20px" width="380" align="left" src="portrait.jpg" alt="Ioana Alexandru">
 
 # Bio
 
-I work at Google as a software engineer and I am currently pursuing a Master's degree in Graphics, Multimedia and Virtual Reality at <a target="_blank" href="https://upb.ro/en/">University POLITEHNICA of Bucharest</a>. I enjoy mobile development and I am trying to learn more about UI/UX design.
+I work at Google as a software engineer and I am currently pursuing a Master's degree in Graphics, Multimedia and Virtual Reality at <a target="_blank" href="https://upb.ro/en/">University POLITEHNICA of Bucharest</a>. I enjoy mobile development and I am learning more about UI/UX design.
 
-My mission is to help grow the next generation of software developers. I practice teaching and mentoring through my position as a Teaching Assistant in my university, as well as through managing a team of students who contribute on <a target="_blank" href="https://github.com/acs-upb-mobile/acs-upb-mobile">a mobile application</a> I built for our student community. Furthermore, in my role as a Microsoft Learn Student Ambassador, I mentor other student ambassadors, organise and participate in various events featuring Microsoft technologies.
-
-<hr clear="left">
+My mission is to help grow the next generation of software developers. I practiced teaching and mentoring through my position as a Teaching Assistant in my university, as well as my role as Microsoft Learn Student ambassador. Currently, I lead a team of students who contribute on <a target="_blank" href="https://github.com/student-hub/acs-upb-mobile">a mobile application</a> I built for our student community. Through work, I love participating in events, conferences and various career panels.
+  
+<br clear="left">
 
 # Education
 
@@ -63,7 +64,7 @@ My mission is to help grow the next generation of software developers. I practic
   </tr>
   <tr>
     <td colspan="3" style="border-bottom-width: 3px;">
-      Currently working as part of the Google Search infrastructure team in 🇨🇭 Zürich, Switzerland.
+      Currently working as part of the Search infrastructure team in 🇨🇭 Zürich, Switzerland. Developing and maintaining highly scalable serving and indexing systems, as well as tools to improve developer velocity.
     </td>
   </tr>
   <tr>
@@ -75,12 +76,12 @@ My mission is to help grow the next generation of software developers. I practic
       <h6 style="display: inline">University POLITEHNICA of Bucharest</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
-      2017 - present
+      2017 - 2020
     </td>
   </tr>
   <tr>
     <td colspan="3" style="border-bottom-width: 3px;">
-      Teaching introductive classes on programming, data structures (in C) and object-oriented programming (in Java) at the best engineering university in 🇷🇴 Bucharest, Romania.
+      Taught introductive classes on programming, data structures (in C) and object-oriented programming (in Java) at the best engineering university in 🇷🇴 Bucharest, Romania.
     </td>
   </tr>
   <tr>
