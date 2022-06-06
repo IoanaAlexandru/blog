@@ -127,7 +127,7 @@ params:
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email:
-      link: ioanaa.alexandru98@gmail.com
+      link: mail+blog@ioana-alexandru.com
       title: Email
     # option to specify your linkedin profile in the footer
     linkedin:
@@ -154,7 +154,7 @@ params:
        link: ioana.alexandru
        title: Instagram
     # option to specify the copyright in the footer
-    copyright: Ioana Alexandru - 2020
+    copyright: Ioana Alexandru - 2022
 
 ###################################################################
 ################## multilanguage support options ##################
@@ -189,7 +189,7 @@ languages:
           logo: "/images/refresh-square.svg"
           # option to specify your contact email in the footer
           email:
-            link: ioanaa.alexandru98@gmail.com
+            link: mail+blog@ioana-alexandru.com
             title: Email
           # option to specify your linkedin profile in the footer
           linkedin:
@@ -216,4 +216,4 @@ languages:
              link: ioana.alexandru
              title: Instagram
           # option to specify the copyright in the footer
-          copyright: Ioana Alexandru - 2020
+          copyright: Ioana Alexandru - 2022
