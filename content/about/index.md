@@ -120,7 +120,7 @@ My mission is to create delightful experiences on Android, and to help grow the 
       <h6 style="display: inline">University POLITEHNICA of Bucharest</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic; border-bottom-width: 3px">
-      2020 - present
+      2020 - 2022
     </td>
   </tr>
   <tr>
