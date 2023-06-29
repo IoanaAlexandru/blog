@@ -12,40 +12,11 @@ showInMenu: true
 
 # Bio
 
-I work at Google as a software engineer and I am currently pursuing a Master's degree in Graphics, Multimedia and Virtual Reality at <a target="_blank" href="https://upb.ro/en/">University POLITEHNICA of Bucharest</a>. I enjoy mobile development and I am learning more about UI/UX design.
+I am a software engineer at Google, where I work on the Android SystemUI team (a.k.a., "everything you see on Android that's not an app"). I am passionate about mobile development and UI/UX design, and I love coming up with creative ways to improve the way users interact with their mobile phones.
 
-My mission is to help grow the next generation of software developers. I practiced teaching and mentoring through my position as a Teaching Assistant in my university, as well as my role as Microsoft Learn Student Ambassador. Currently, I lead a team of students who contribute on <a target="_blank" href="https://github.com/student-hub/acs-upb-mobile">a mobile application</a> I built for our student community. Through work, I love participating in events, conferences and various career panels.
+My mission is to create delightful experiences on Android, and to help grow the next generation of software developers. I practiced teaching and mentoring through my position as a Teaching Assistant in my university, as well as my role as Microsoft Learn Student Ambassador. One of my greatest achievements has been leading a team of students who contribute on <a target="_blank" href="https://github.com/student-hub/acs-upb-mobile">a mobile application</a> I built for our student community in University. Through work, I love participating in events, conferences and various career panels.
   
 <br clear="left">
-
-# Education
-
-<table>
-  <tr>
-    <td style="vertical-align: middle; padding-right: 4px; width: 58px; border-bottom-width: 3px">
-      <img alt="University POLITEHNICA of Bucharest" title="University POLITEHNICA of Bucharest" class="logo" src="logos/upb.png">
-    </td>
-    <td style="border-bottom-width: 3px">
-      <h4 style="display: inline">Master's degree in Graphics, Multimedia and Virtual Reality</h4><br>
-      <h6 style="display: inline">University POLITEHNICA of Bucharest</h6>
-    </td>
-    <td style="text-align: right; vertical-align: middle; font-style: italic; border-bottom-width: 3px">
-      2020 - present
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: middle; padding-right: 4px; width: 58px">
-      <img alt="University POLITEHNICA of Bucharest" title="University POLITEHNICA of Bucharest" class="logo" src="logos/upb.png">
-    </td>
-    <td>
-      <h4 style="display: inline">Bachelor's degree in Computer Science</h4><br>
-      <h6 style="display: inline">University POLITEHNICA of Bucharest</h6>
-    </td>
-    <td style="text-align: right; vertical-align: middle; font-style: italic">
-      2016 - 2020
-    </td>
-  </tr>
-</table>
 
 # Work experience
 
@@ -59,12 +30,29 @@ My mission is to help grow the next generation of software developers. I practic
       <h6 style="display: inline">Google</h6>
     </td>
     <td style="text-align: right; vertical-align: middle; font-style: italic">
-      2020 - present
+      2022 - present
     </td>
   </tr>
   <tr>
     <td colspan="3" style="border-bottom-width: 3px;">
-      Currently working as part of the Search infrastructure team in 🇨🇭 Zürich, Switzerland. Developing and maintaining highly scalable serving and indexing systems, as well as tools to improve developer velocity.
+      Currently working on the Android SystemUI team in 🇨🇭 Zürich, Switzerland. My main focus is to improve notifications on Android by fixing bugs and leveraging modern software architecture for both existing and new features.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 4px; width: 58px">
+      <img alt="Google" title="Google" class="logo" src="logos/google.svg">
+    </td>
+    <td>
+      <h4 style="display: inline">Software Engineer</h4><br>
+      <h6 style="display: inline">Google</h6>
+    </td>
+    <td style="text-align: right; vertical-align: middle; font-style: italic">
+      2020 - 2022
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" style="border-bottom-width: 3px;">
+      Worked as part of the Search infrastructure team in 🇨🇭 Zürich, Switzerland. Developing and maintaining highly scalable serving and indexing systems, as well as tools to improve developer velocity.
     </td>
   </tr>
   <tr>
@@ -81,7 +69,7 @@ My mission is to help grow the next generation of software developers. I practic
   </tr>
   <tr>
     <td colspan="3" style="border-bottom-width: 3px;">
-      Taught introductive classes on programming, data structures (in C) and object-oriented programming (in Java) at the best engineering university in 🇷🇴 Bucharest, Romania.
+      Taught introductive classes on programming, data structures (in C) and object-oriented programming (in Java) at the top engineering university in 🇷🇴 Bucharest, Romania.
     </td>
   </tr>
   <tr>
@@ -116,6 +104,35 @@ My mission is to help grow the next generation of software developers. I practic
   <tr>
     <td colspan="3" style="border-bottom-width: 0px;">
       Gained experience with Kotlin and Java by developing a new IDE feature as part of the Android Studio team in 🇬🇧 London, UK.
+    </td>
+  </tr>
+</table>
+
+# Education
+
+<table>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 4px; width: 58px; border-bottom-width: 3px">
+      <img alt="University POLITEHNICA of Bucharest" title="University POLITEHNICA of Bucharest" class="logo" src="logos/upb.png">
+    </td>
+    <td style="border-bottom-width: 3px">
+      <h4 style="display: inline">Master's degree in Graphics, Multimedia and Virtual Reality</h4><br>
+      <h6 style="display: inline">University POLITEHNICA of Bucharest</h6>
+    </td>
+    <td style="text-align: right; vertical-align: middle; font-style: italic; border-bottom-width: 3px">
+      2020 - 2022
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 4px; width: 58px">
+      <img alt="University POLITEHNICA of Bucharest" title="University POLITEHNICA of Bucharest" class="logo" src="logos/upb.png">
+    </td>
+    <td>
+      <h4 style="display: inline">Bachelor's degree in Computer Science</h4><br>
+      <h6 style="display: inline">University POLITEHNICA of Bucharest</h6>
+    </td>
+    <td style="text-align: right; vertical-align: middle; font-style: italic">
+      2016 - 2020
     </td>
   </tr>
 </table>

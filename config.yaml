@@ -114,7 +114,7 @@ params:
     # option to specify the title in the homepage
     title: Ioana Alexandru
     # option to specify the subtitle in the homepage
-    subtitle: Software Engineer. Mobile Developer. Student. Rookie UI Designer. Photography Aficionado.
+    subtitle: Software Engineer. Mobile Developer. Rookie UX Designer. Photography Aficionado.
     # option to specify image in the homepage
     image: "/images/avataaars2.svg" # worker.svg
     # option to specify the width of the image in the homepage
@@ -154,7 +154,7 @@ params:
        link: ioana.alexandru
        title: Instagram
     # option to specify the copyright in the footer
-    copyright: Ioana Alexandru - 2022
+    copyright: Ioana Alexandru - 2023
 
 ###################################################################
 ################## multilanguage support options ##################
